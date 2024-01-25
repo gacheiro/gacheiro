@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago J.
-- 👀 I’m interested in Operational Research and Optimization
-- 🌱 I’m currently learning CPLEX an PuLP
+- 👀 I’m interested in Operations Research and Optimization
+- 🌱 I’m currently learning CPLEX and PuLP
 - 💞️ I’m looking to collaborate on open source optimization tools
 - 📫 How to reach me: gacheiro@duck.com
 
