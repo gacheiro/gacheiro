@@ -12,7 +12,8 @@ At the moment, my main interests are: Optimization, Data Science, Artificial Int
     "Feature Engineering", "Model Evaluation and Tuning", "Data Visualization", 
     "Mathematical Optimization", "Heuristic Algorithms", "Metaheuristic Algorithms", 
     "Operations Research", "Genetic Algorithms", "Supply Chain Optimization", 
-    "Python", "SQL", "Azure", "Google Cloud", 
+    "Python", "SQL", "Azure", "Google Cloud",
+    "PuLP", "Pyomo", "IBM ILOG CPLEX", "Guroby",
     "Git", "Teaching", "Mentoring"
 ]
 
