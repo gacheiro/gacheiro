@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Thiago J.
-- 👀 I’m interested in Operations Research and Optimization
-- 💞️ I’m looking to collaborate on open source optimization tools
-- 📫 How to reach me: gacheiro@duck.com
+#### Hi, I'm **Thiago J. Barbalho**
 
-<!---
-gacheiro/gacheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I am working as a Data Scientist and Optimisation Expert at [Suzano](https://www.suzano.com.br/en).
+
+At the moment my **main interests** are: Optimisation, Data Science, Artificial Inteligence, Software Architecture, Teaching Techniques, Python Language.
+
+#### I have hands-on experience with:
+
+```python
+[
+    "Package Management", "Content Management", "System Configuration", "Distributed Systems", "Event Driven",
+    "Architecture", "Engineering", "Programming", "Team Leading", "Quality Engineering",
+    "Django", "Flask", "FastAPI", "Axum", "Actix",
+    "HTTP", "REST", "g/RPC", "*sockets",
+    "Redis", "Postgres", "SQL", "MongoDB", "ElasticSearch", "MeiliSearch", "etcd", "vault",
+    "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy",
+]
+```
+
+#### Contact
+- Personal e-mail: gacheiro@duck.com
+- Work related [linkedin.com/in/thiagojobson](https://linkedin.com/in/thiagojobson)
