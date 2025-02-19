@@ -1,6 +1,6 @@
 #### Hi, I'm **Thiago J. Barbalho**
 
-I am working currently as a Data Scientist and Optimization Expert at [Suzano](https://www.suzano.com.br/en).
+I am currently working as a Data Scientist and Optimization Expert at [Suzano](https://www.suzano.com.br/en).
 
 At the moment, my main interests are: Optimization, Data Science, Artificial Intelligence, Software Architecture, Teaching Techniques, and the Python language in general.
 
