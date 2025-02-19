@@ -1,20 +1,21 @@
 #### Hi, I'm **Thiago J. Barbalho**
 
-Currently I am working as a Data Scientist and Optimisation Expert at [Suzano](https://www.suzano.com.br/en).
+I am working currently as a Data Scientist and Optimization Expert at [Suzano](https://www.suzano.com.br/en).
 
-At the moment my **main interests** are: Optimisation, Data Science, Artificial Inteligence, Software Architecture, Teaching Techniques, Python Language.
+At the moment, my main interests are: Optimization, Data Science, Artificial Intelligence, Software Architecture, Teaching Techniques, and the Python language in general.
 
 #### I have hands-on experience with:
 
 ```python
 [
-    "Package Management", "Content Management", "System Configuration", "Distributed Systems", "Event Driven",
-    "Architecture", "Engineering", "Programming", "Team Leading", "Quality Engineering",
-    "Django", "Flask", "FastAPI", "Axum", "Actix",
-    "HTTP", "REST", "g/RPC", "*sockets",
-    "Redis", "Postgres", "SQL", "MongoDB", "ElasticSearch", "MeiliSearch", "etcd", "vault",
-    "Ansible", "Docker", "Podman", "Nginx", "Apache", "Envoy",
+    "Data Pipelines", "Statistical Analysis", "Machine Learning", 
+    "Feature Engineering", "Model Evaluation and Tuning", "Data Visualization", 
+    "Mathematical Optimization", "Heuristic Algorithms", "Metaheuristic Algorithms", 
+    "Operations Research", "Genetic Algorithms", "Supply Chain Optimization", 
+    "Python", "SQL", "Azure", "Google Cloud", 
+    "Git", "Teaching", "Mentoring"
 ]
+
 ```
 
 #### Contact
