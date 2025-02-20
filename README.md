@@ -4,7 +4,7 @@ I am currently working as a Data Scientist and Optimization Expert at [Suzano](h
 
 At the moment, my main interests are: Optimization, Data Science, Artificial Intelligence, Software Architecture, Teaching Techniques, and the Python language in general.
 
-#### I have hands-on experience with:
+#### I have hands-on experience with
 
 ```python
 [
